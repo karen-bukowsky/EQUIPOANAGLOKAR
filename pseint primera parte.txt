@@ -13,7 +13,19 @@ Algoritmo sin_titulo
 		1:
                // gloria
 		2:
-              // vania  
+              escribir "introduzca el número";
+			leer n;
+			escribir "introduzca el caracter";
+			leer x;
+			para a=n hasta 1 con paso -1
+				para b=1 hasta a con paso 1
+					escribir " "  sin saltar 
+					
+				FinPara
+				para c=a hasta n con paso 1 hacer 
+					escribir x," " sin saltar
+				FinPara
+				escribir "" 
 		3:
 			
 		
