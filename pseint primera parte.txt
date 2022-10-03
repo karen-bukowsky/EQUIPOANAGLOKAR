@@ -1,0 +1,40 @@
+Algoritmo sin_titulo
+	definir // gloriaComo Real
+	definir // vania  Como Entero
+	definir n1,n2 como entero 
+	definir x como cadena
+	Escribir "ingresa el numero del programa que quieres usar";
+	escribir "1.Fubonacci";
+	Escribir  "2.Piramides";
+	Escribir "3.Suma,Resta,multiplicacion,Division y Potencia";
+	leer eleccion;
+	
+	Segun eleccion Hacer
+		1:
+               // gloria
+		2:
+              // vania  
+		3:
+			
+		
+			Segun seleccion Hacer
+				1:
+					escribir "el resultado de la suma es: " n1*n2;
+				2:
+					escribir "elegiste resta";
+					Escribir "el resultado de la resta es: ",n1-n2;
+				3:
+					escribir "elegiste multiplicación";
+					Escribir "el resultado de la es: ",n1*n2;
+			    4:
+					escribir "elegiste división";
+					Escribir "el resultado de la división es: ",n1/n2;
+			    5:
+					escribir "elegiste potencia ";
+					Escribir "el resultado de la potencia es: " ,p1, " ", p2;
+				
+			Fin Segun
+		De Otro Modo:
+			Escribir "esa opcion no existe";
+	Fin Segun
+FinAlgoritmo
