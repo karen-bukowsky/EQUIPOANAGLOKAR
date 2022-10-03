@@ -3,7 +3,7 @@ fubonacci_piramides_suma_resta_multiplicacion_division_potencia_
 =======
 Algoritmo programatresopciones 
 >>>>>>> ea24aa654a66943740453a8438f9bccfc0d6560c
-	definir // gloriaComo Real
+	definir n,z,w,ha ,p1, p2 Como Real
              definir a,b,c,eleccion Como Entero
 	        definir n1,n2 como entero 
 	           definir x como cadena
