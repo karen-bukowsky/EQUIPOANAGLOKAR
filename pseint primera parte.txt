@@ -1,12 +1,12 @@
-Algoritmo sin_titulo
+fubonacci_piramides_suma_resta_multiplicacion_division_potencia_
 	definir // gloriaComo Real
-        definir a,b,c,eleccion Como Entero
-	definir n1,n2 como entero 
-	definir x como cadena
-	Escribir "ingresa el numero del programa que quieres usar";
-	escribir "1.Fubonacci";
-	Escribir  "2.Piramides";
-	Escribir "3.Suma,Resta,multiplicacion,Division y Potencia";
+             definir a,b,c,eleccion Como Entero
+	        definir n1,n2 como entero 
+	           definir x como cadena
+	             Escribir "ingresa el numero del programa que quieres usar";
+	                escribir "1.Fubonacci";
+	                   Escribir  "2.Piramides";
+	                      Escribir "3.Suma,Resta,multiplicacion,Division y Potencia";
 	leer eleccion;
 	
 	Segun eleccion Hacer
