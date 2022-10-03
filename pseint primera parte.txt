@@ -16,7 +16,17 @@ Algoritmo programatresopciones
 	Segun eleccion Hacer
 
 		1:
-               // gloria
+               escribir "Ingresa un numero cualquiera";
+			leer n;
+			z=0;
+			w=1;
+			Mientras z<=n Hacer
+				escribir z;
+				ha=z+w;
+				z=w;
+				w=ha;
+				
+			Fin Mientras
 
 
 		2:
