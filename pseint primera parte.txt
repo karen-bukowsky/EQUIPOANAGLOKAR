@@ -1,6 +1,6 @@
 Algoritmo sin_titulo
 	definir // gloriaComo Real
-	definir // vania  Como Entero
+        definir a,b,c,eleccion Como Entero
 	definir n1,n2 como entero 
 	definir x como cadena
 	Escribir "ingresa el numero del programa que quieres usar";
