@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo programatresopciones 
 	definir // gloriaComo Real
         definir a,b,c,eleccion Como Entero
 	definir n1,n2 como entero 
@@ -10,8 +10,11 @@ Algoritmo sin_titulo
 	leer eleccion;
 	
 	Segun eleccion Hacer
+
 		1:
                // gloria
+
+
 		2:
               escribir "introduzca el número";
 			leer n;
@@ -26,10 +29,11 @@ Algoritmo sin_titulo
 					escribir x," " sin saltar
 				FinPara
 				escribir "" 
+
+
 		3:
-			
-		
 			Segun seleccion Hacer
+
 				1:
 					escribir "el resultado de la suma es: " n1*n2;
 				2:
@@ -38,10 +42,10 @@ Algoritmo sin_titulo
 				3:
 					escribir "elegiste multiplicación";
 					Escribir "el resultado de la es: ",n1*n2;
-			    4:
+			        4:
 					escribir "elegiste división";
 					Escribir "el resultado de la división es: ",n1/n2;
-			    5:
+			        5:
 					escribir "elegiste potencia ";
 					Escribir "el resultado de la potencia es: " ,p1, " ", p2;
 				
